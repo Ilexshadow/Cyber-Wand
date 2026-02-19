@@ -3,7 +3,7 @@
   - 通过该项目制作出的魔杖控制角色前后左右移动。
   - 通过挥舞该项目制作出的魔杖，产生特定的键盘输入，从而在游戏中释放特定的魔法。
   
-&emsp;&emsp;具体情况可以见  详细介绍ppt  以及  真实游戏展示视频  。    
+&emsp;&emsp;具体情况可以见  详细介绍ppt  以及  真实游戏展示视频。    
 
 - lyg09270的开源项目[Cyberry_Potter_Electromagic_Wand](https://github.com/lyg09270/Cyberry_Potter_Electromagic_Wand)对此项目有很大的启发作用，向其学习了部分代码和PCB设计，但是最终此项目所使用的Keil版本配置、PCB设计、数据处理与其都有所不同。  
 - Keil除版本略新外，配置完全参照[江协科技STM32入门教程](https://www.bilibili.com/video/BV1th411z7sn)。  
