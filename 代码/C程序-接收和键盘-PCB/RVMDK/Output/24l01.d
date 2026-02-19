@@ -1,0 +1,14 @@
+.\output\24l01.o: ..\User\24L01.c
+.\output\24l01.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\output\24l01.o: ..\CMSIS\CM3\CoreSupport\core_cm3.h
+.\output\24l01.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\24l01.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\output\24l01.o: ..\User\stm32f10x_conf.h
+.\output\24l01.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+.\output\24l01.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\output\24l01.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h
+.\output\24l01.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\output\24l01.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\output\24l01.o: ..\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\output\24l01.o: ..\User\24L01.h
+.\output\24l01.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
