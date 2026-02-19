@@ -13,3 +13,12 @@
 
 &emsp;&emsp;非常感谢[lyg09270](https://github.com/lyg09270)、[majianjia](https://github.com/majianjia)、[江协科技](https://space.bilibili.com/383400717?spm_id_from=333.788.upinfo.detail.click)、[嘉立创EDA](https://pro.lceda.cn/)等提供的帮助。
 
+ 
+- 主控芯片：STM32F103C8T6
+- 姿态传感器：MPU6050。I2C通信、姿态解算。
+- 无线通信：NRF24L01。SPI协议、无线数据传输。
+- 电源管理：TP4056。充放电管理。
+- PCB设计：嘉立创EDA。
+- 软件开发：Keil MDK。
+
+如果这个项目对你有帮助，欢迎点亮⭐
